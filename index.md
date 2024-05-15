@@ -1,6 +1,6 @@
 ### Содержание
 
-- [Глоссарий](docs/glossary/glossary.md)
+- <span style="color: blue; font-weight: bold;">[Глоссарий](docs/glossary/glossary.md)</span>
 - [Введение](docs/introduction/introduction.md)
 - [Требования к системе](docs/requirements/requirements.md)
     - [Функциональные требования к системе](docs/requirements/functional/functional.md)
